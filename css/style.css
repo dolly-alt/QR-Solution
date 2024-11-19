@@ -37,7 +37,8 @@ body {
   width: 250px;
 }
 
-.card h3 {
+.card h1 {
+  font-size: 15px;
   text-align: center;
   margin: 10px;
   color: hsl(218, 44%, 22%);
